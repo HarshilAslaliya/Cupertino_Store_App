@@ -1,16 +1,9 @@
 # cupertino_product_app
 
-A new Flutter project.
+Output:
 
-## Getting Started
+<img align='left' src="https://user-images.githubusercontent.com/121867931/213249281-f9e5efa1-8b43-4797-8c45-ee10e909c5c5.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/213249283-36e17b9f-4843-4e15-9de2-91a0283a91d1.png" width="200" height="450">
+<img src="https://user-images.githubusercontent.com/121867931/213249291-b29555ac-a928-4630-bed0-f2185dba6df1.png" width="200" height="450">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
